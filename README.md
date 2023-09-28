@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Pimpikx! :)
 
+My name is Pimpika and I've been in a committed relationship with my keyboard for years.
 <!--
 **pimpikx/pimpikx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
